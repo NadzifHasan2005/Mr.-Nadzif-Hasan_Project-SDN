@@ -14,3 +14,12 @@ _Software Define Network_ adalah sebuah paradigma jaringan baru yang melakukan d
 2. Memprediksi masalah pada jaringan.
 3. mempercepat pembangunan atau penambahan jaringan.
 4. Menekan biaya pengeluaran.
+
+## Alat - alat yang dibutuhkan untuk SDN
+1. Mininet
+2. Ryu Controller
+3. Wireshark
+4. Docker
+5. Minikube
+6. Kubectl
+7. 
