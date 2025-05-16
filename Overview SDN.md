@@ -17,9 +17,24 @@ _Software Define Network_ adalah sebuah paradigma jaringan baru yang melakukan d
 
 ## Alat - alat yang dibutuhkan untuk SDN
 1. Mininet
+
+   Link : https://github.com/NadzifHasan2005/Mr.-Nadzif-Hasan_Project-SDN/blob/d3bf1f2df6f435c17b266f11ce3192f4244fb213/Tools-SDN/Mininet.md
 2. Ryu Controller
+
+   Link : https://github.com/NadzifHasan2005/Mr.-Nadzif-Hasan_Project-SDN/blob/d3bf1f2df6f435c17b266f11ce3192f4244fb213/Tools-SDN/Ryu-Controller.md
 3. Wireshark
+
+   Link : https://github.com/NadzifHasan2005/Mr.-Nadzif-Hasan_Project-SDN/blob/d3bf1f2df6f435c17b266f11ce3192f4244fb213/Tools-SDN/Wireshark.md
 4. Docker
+
+   Link : https://github.com/NadzifHasan2005/Mr.-Nadzif-Hasan_Project-SDN/blob/0c436eab5910061cd0f2837ce25034206ed8bc66/Tools-SDN/Docker.md
 5. Minikube
+
+   Link : https://github.com/NadzifHasan2005/Mr.-Nadzif-Hasan_Project-SDN/blob/0c436eab5910061cd0f2837ce25034206ed8bc66/Tools-SDN/Minikube.md
 6. Kubectl
-7. 
+
+    Link : https://github.com/NadzifHasan2005/Mr.-Nadzif-Hasan_Project-SDN/blob/0c436eab5910061cd0f2837ce25034206ed8bc66/Tools-SDN/Kubectl.md
+
+
+**Versi lengkap:**
+https://hackmd.io/@i3pwLWrdSGyywEqCCjWINg/rk5j6zLaJg
